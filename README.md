@@ -1,6 +1,6 @@
 ## GhostWriter!
 
-An application that lets you build interactive scripts using machine generated scripts. Internally it uses an LSTM trained on past data and scripts. More details and refactoring will be up soon!
+An application that lets you build interactive movie scripts using machine generated texts. Internally it uses an LSTM trained on past data and previous movie scripts. More details and refactoring will be up soon!
 
 DevPost: https://devpost.com/software/packhack2019
 
